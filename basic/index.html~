@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<title>Awesome Hotel!!</title>
+</head>
+
+<body>
+
+<h1>Hotel Sol Tania</h1>
+
+<p>Yay, great &lt;place&gt; in good location.</p>
+
+<p>You will like it here, promise.</p>
+
+<table width="100%">
+
+<tr>
+<td width="50%">
+<b>645 Nassau Hall</b> <br />
+<i>Princeton, NJ 08544</i>
+</td>
+
+<td width="50%">
+<img src="http://www.concierge.com/images/ideas/budget-hotels-london/40-winks-hotel_london_001p.jpg"></img>
+</td>
+</tr>
+
+</table>
+
+<div class="pictures-at-the-bottom">
+
+<img src="http://4.bp.blogspot.com/-7yQyhzwwnu8/Tdod8D73cfI/AAAAAAAAADM/vXwOOiSRzlo/s400/hotel-taj-bengal.jpg"></img>
+<img src="http://4.bp.blogspot.com/-7yQyhzwwnu8/Tdod8D73cfI/AAAAAAAAADM/vXwOOiSRzlo/s400/hotel-taj-bengal.jpg"></img>
+<img src="http://4.bp.blogspot.com/-7yQyhzwwnu8/Tdod8D73cfI/AAAAAAAAADM/vXwOOiSRzlo/s400/hotel-taj-bengal.jpg"></img>
+<img src="http://4.bp.blogspot.com/-7yQyhzwwnu8/Tdod8D73cfI/AAAAAAAAADM/vXwOOiSRzlo/s400/hotel-taj-bengal.jpg"></img>
+
+</div>
+
+
+
+</body>
+</html>

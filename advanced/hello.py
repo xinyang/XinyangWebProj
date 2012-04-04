@@ -4,4 +4,4 @@ from bottle import route, run
 def index(name='World'):
     return '<b>Hello %s!</b>' % name
 
-run(host='localhost', port=8080)
+run(host='localhost', port=8080, debug=True)
